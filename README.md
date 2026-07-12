@@ -62,7 +62,7 @@
 
 # 🎯 Currently Learning
 
-   SpringBoot
+🍃 Spring Boot
 
 ☁️ AWS Cloud
 
@@ -80,7 +80,7 @@
 
 <p align="center">
 
-<a href="">
+<a href="www.linkedin.com/in/rakshitha-j-88782b375">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -101,37 +101,3 @@
 ### ⭐ "Learning never stops. Every project is a step toward becoming a better developer." 🚀
 
 </p>
-
-
-
-
-
-
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-
-
-
--
-
