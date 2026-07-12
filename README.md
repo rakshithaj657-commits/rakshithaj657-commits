@@ -1,16 +1,58 @@
-## Hi there 👋
 
-<!--
-**rakshithaj657-commits/rakshithaj657-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Rakshitha J
 
-Here are some ideas to get you started:
+### Java Full Stack Developer | DevOps Enthusiast | AWS Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science Engineering Graduate (2026)
+
+🌱 Currently Learning
+- AWS
+- Jenkins
+- Docker
+- Kubernetes
+- CI/CD Pipeline
+
+💻 Technical Skills
+
+- Java
+- Spring Boot
+- Hibernate
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Maven
+- Linux
+- AWS
+
+## Projects
+
+### 🎬 Movie Ticket Booking System
+- Spring Boot
+- MySQL
+- AWS EC2
+- Amazon RDS
+- Jenkins CI/CD
+
+### 📈 Stock Market Management System
+- Java
+- Spring Boot
+- Hibernate
+- MySQL
+
+### 🌿 Plant Leaf Disease Detection
+- Python
+- Flask
+- TensorFlow
+- OpenCV
+
+## Connect with Me
+
+LinkedIn:
+https://linkedin.com/in/your-link
+
+Email:
+yourmail@gmail.com
+
+⭐ Thanks for visiting my profile!
