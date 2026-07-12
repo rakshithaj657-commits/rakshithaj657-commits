@@ -21,6 +21,13 @@
 🚀 Interested in Cloud Computing, DevOps, CI/CD, and Backend Development.
 
 🌱 Currently improving my skills through real-world projects and hands-on cloud deployments.
+I'm a Computer Science Engineering graduate passionate about backend development, cloud technologies, and DevOps.
+
+I enjoy building scalable applications using Java and Spring Boot while continuously exploring modern development practices, automation, and cloud deployment.
+
+Currently focused on improving my backend engineering skills and gaining hands-on experience with cloud-native technologies.
+
+---
 
 📫 Email: **rakshithaj657@gmail.com**
 
@@ -186,88 +193,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Rakshitha J</h1>
-
-<h3 align="center">
-Java Full Stack Developer | Spring Boot | AWS Cloud | DevOps Enthusiast
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Backend+Developer;AWS+Cloud+Learner;DevOps+Enthusiast;Always+Learning+New+Technologies"/>
-</p>
-
----
-
-## 👩‍💻 About Me
-
-```java
-public class Rakshitha {
-
-    String role = "Java Full Stack Developer";
-
-    String[] languages = {
-        "Java",
-        "JavaScript",
-        "SQL"
-    };
-
-    String[] backend = {
-        "Spring Boot",
-        "Hibernate",
-        "REST APIs"
-    };
-
-    String[] cloud = {
-        "AWS",
-        "Docker",
-        "Jenkins",
-        "Kubernetes"
-    };
-
-    String[] tools = {
-        "Git",
-        "GitHub",
-        "Linux",
-        "Maven",
-        "Postman"
-    };
-
-    String currentFocus = "Building scalable applications and learning DevOps";
-
-}
-```
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,linux,git,github,maven"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,postman"/>
-
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-- ☁️ AWS Cloud
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔄 Jenkins CI/CD
-- 🏗️ Microservices
-- 📚 System Design
-- 💡 Data Structures & Algorithms
-
----
 
 ## 📊 GitHub Stats
 
@@ -355,15 +280,6 @@ public class Rakshitha {
 
 ---
 
-## 💫 Who Am I?
-
-I'm a Computer Science Engineering graduate passionate about backend development, cloud technologies, and DevOps.
-
-I enjoy building scalable applications using Java and Spring Boot while continuously exploring modern development practices, automation, and cloud deployment.
-
-Currently focused on improving my backend engineering skills and gaining hands-on experience with cloud-native technologies.
-
----
 
 ## ⚙️ Technologies I Work With
 
