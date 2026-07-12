@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshitha J</h1>
 
 <h3 align="center">
-Java Full Stack Developer | Spring Boot | AWS | DevOps Enthusiast
+ Aspiring Java Full Stack Developer | Spring Boot | DevOps Enthusiast
 </h3>
 
 <p align="center">
@@ -16,13 +16,13 @@ Java Full Stack Developer | Spring Boot | AWS | DevOps Enthusiast
 
 💻 Passionate about building scalable and user-friendly Full Stack applications using Java and Spring Boot.
 
-☁️ Skilled in AWS Cloud, Linux, Git, GitHub, Docker, Jenkins, Maven, MySQL, HTML, CSS, JavaScript, Hibernate, and Spring Boot.
+☁️ Skilled in AWS Cloud, Linux, Git, GitHub, Docker, Jenkins, Maven, MySQL, HTML, CSS, JavaScript, Java,Hibernate, and Spring Boot.
 
 🚀 Interested in Cloud Computing, DevOps, CI/CD, and Backend Development.
 
 🌱 Currently improving my skills through real-world projects and hands-on cloud deployments.
 
-📫 Email: **YOUR_EMAIL**
+📫 Email: **rakshithaj657@gmail.com**
 
 ---
 
