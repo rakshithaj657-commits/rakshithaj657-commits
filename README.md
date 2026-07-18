@@ -92,6 +92,12 @@ Aspiring Java Full Stack Developer • Spring Boot • AWS Cloud • DevOps Enth
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakshithaj657-commits&show_icons=true&theme=tokyonight" />
+</p>
+
+
 ## 🔥 GitHub Streak
 
 <p align="center">
