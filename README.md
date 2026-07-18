@@ -106,11 +106,19 @@ Aspiring Java Full Stack Developer • Spring Boot • AWS Cloud • DevOps Enth
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshithaj657-commits&theme=tokyo-night&hide_border=true" />
 </p>
-# 🤝 Connect With Me
+/rakshithaj657-commits">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rakshitha-j-88782b375">
+<a href="https://www.linkedin.com/in/rakshitha-j-88782b375?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -128,6 +136,6 @@ Aspiring Java Full Stack Developer • Spring Boot • AWS Cloud • DevOps Enth
 
 <p align="center">
 
-<i>"Code with curiosity. Build with purpose. Learn continuously."</i>
+### ⭐ "Learning never stops. Every project is a step toward becoming a better developer." 🚀
 
 </p>
