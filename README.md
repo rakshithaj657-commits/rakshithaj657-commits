@@ -11,7 +11,11 @@ Aspiring Java Full Stack Developer • Spring Boot • AWS Cloud • DevOps Enth
 <p align="center">
 
 <a href="https://github.com/rakshithaj657-commits">
-<img src="https://img.shields.io/github/followers/rakshithaj657-commits?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/rakshithaj657-commits?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/rakshithaj657-commits">
+  <img src="https://komarev.com/ghpvc/?username=rakshithaj657-commits&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </a>
 
 <a href="mailto:rakshithaj657@gmail.com">
