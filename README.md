@@ -86,16 +86,11 @@ Aspiring Java Full Stack Developer • Spring Boot • AWS Cloud • DevOps Enth
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rakshithaj657-commits&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithaj657-commits&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rakshithaj657-commits&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakshithaj657-commits&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshithaj657-commits&show_icons=true&theme=tokyonight" />
-</p>
 
 
 ## 🔥 GitHub Streak
