@@ -82,45 +82,29 @@ Aspiring Java Full Stack Developer • Spring Boot • AWS Cloud • DevOps Enth
 
 ---
 
-# 📊 GitHub Analytics
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakshithaj657&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithaj657&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rakshithaj657-commits&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithaj657-commits&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rakshithaj657&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rakshithaj657-commits&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshithaj657&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshithaj657-commits&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-# 📌 Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/rakshithaj657-commits/Stock-Market-Portfolio-Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshithaj657&repo=Stock-Market-Portfolio-Management&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/rakshithaj657-commits/Movie-Ticket-Booking-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshithaj657&repo=Movie-Ticket-Booking-System&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
 # 🤝 Connect With Me
 
 <p align="center">
